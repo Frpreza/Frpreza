@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/account" alt="Frpreza " width="300" />
+<img src="https://youtube.com/c/YuzzuKamiyaka" alt="Frpreza " width="300" />
 
 # Reza
 
