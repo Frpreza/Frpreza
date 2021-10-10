@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/76629978?v=4" alt="Dcode-Denpa " width="300" />
+<img src="https://avatars.githubusercontent.com/u/76629978?v=4" alt="Frpreza " width="300" />
 
 # Reza
 
