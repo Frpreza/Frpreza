@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.app.goo.gl/1V7Ddi7NDA7mzkav8" alt="Frpreza " width="300" />
+<img src="https://github.com/account" alt="Frpreza " width="300" />
 
 # Reza
 
